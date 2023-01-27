@@ -11,7 +11,7 @@ class A {
 }
 class B extends A{
     String meth(){
-        String s="Method is overridden in Extendend class B";
+        String s="Method is overridden in Extended class B";
         return s;
     }
 }
